@@ -3,7 +3,6 @@
    "http://www.w3.org/TR/html4/loose.dtd">
 
 <!-- Here changess is made in github -->
-<!-- Another changess is made in github -->
 
 <html>
     <head>
