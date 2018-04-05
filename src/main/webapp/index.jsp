@@ -3,7 +3,7 @@
    "http://www.w3.org/TR/html4/loose.dtd">
 
 <!-- Here changess is made in github -->
-<!-- Here changess is made in github -->
+<!-- Here changes -->
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
